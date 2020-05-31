@@ -1,4 +1,4 @@
-# cpp_regex_bench
+# Boost Regex is faster than STL Regex
 C++ STL and Boost Regular Expression Benchmark
 
 ## Benchmark Results
