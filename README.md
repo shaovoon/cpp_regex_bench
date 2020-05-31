@@ -5,6 +5,8 @@ C++ STL and Boost Regular Expression Benchmark from [regex-benchmark](https://gi
 
 1st column is the timing and 2nd column is number of matches. Not sure why Boost has 5302 matches which is one more than the STL regex.
 
+__Compilers used:__ VC++ 2019 Update 16.6, Clang++ 6.0 and G++ 7.5.0
+
 ```
 VC++ STL regex
 3714.06 - 92
